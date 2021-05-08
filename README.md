@@ -1,2 +1,2 @@
 # Machine-Learnings
-Some Machine Learning concepts Jupyter Notebook Programs are here.
+Some Machine Learning models in Python on Jupyter Notebook Programs are here.
